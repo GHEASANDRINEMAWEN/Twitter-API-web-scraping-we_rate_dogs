@@ -15,7 +15,7 @@ remarks to other user accounts. In the analysis, I aim to answer the following q
 
 4) The most common dog personality
 
-# Twitter-API-web-scraping-we_rate_dogs
+# Files
 - The main analysis file is Udacity_Project2_GAC.ipynb
 - The final report is act_report.pdf
 
